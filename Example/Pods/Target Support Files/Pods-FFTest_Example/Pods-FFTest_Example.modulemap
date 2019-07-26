@@ -1,0 +1,6 @@
+framework module Pods_FFTest_Example {
+  umbrella header "Pods-FFTest_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

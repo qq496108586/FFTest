@@ -1,0 +1,6 @@
+framework module FFTest {
+  umbrella header "FFTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
